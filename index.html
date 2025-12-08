@@ -1,27 +1,23 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista de Regalos</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Regalos</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<header>
-    <h1>Lista de Regalos</h1>
-    <p class="subtitle">Gracias por acompañarnos en este momento especial 💛</p>
-    <p class="alias">Alias bancario: <strong>tualias.banco</strong></p>
-</header>
+  <h1>Lista de Regalos</h1>
 
-<main>
-    <div id="gift-list" class="grid"></div>
-</main>
+  <!-- ACA se va a llenar automáticamente -->
+  <div id="gifts-container"></div>
 
-<footer>
-    <p>Con cariño, Leonel & [Nombre].</p>
-</footer>
-
+  <!-- Scripts (IMPORTANTE: primero gifts, luego app) -->
+<script src="messages.js"></script>
+<script src="gifts.js"></script>
 <script src="app.js"></script>
+
+
 </body>
 </html>

@@ -1,33 +1,38 @@
-async function loadGifts() {
-    const response = await fetch("gifts.json");
-    const gifts = await response.json();
+// app.js actualizado usando messages.js
 
-    const container = document.getElementById("gift-list");
+document.addEventListener("DOMContentLoaded", () => {
+  const container = document.getElementById("gifts-container");
+  if (!container) return;
 
-    gifts
-        .filter(g => !g.reserved && !localStorage.getItem(`gift_${g.id}`))
-        .forEach(gift => {
-            const card = document.createElement("div");
-            card.className = "card";
+  window.gifts.forEach(gift => {
+    const item = document.createElement("div");
+    item.className = "gift-item";
 
-            card.innerHTML = `
-                <img src="${gift.image}" alt="${gift.title}">
-                <div class="card-content">
-                    <h3 class="card-title">${gift.title}</h3>
-                    <p class="card-price">$${gift.price.toLocaleString()}</p>
-                    ${gift.url ? `<p><a href="${gift.url}" target="_blank">Ver producto</a></p>` : ""}
-                </div>
-                <button class="btn" onclick="reserve(${gift.id})">Reservar</button>
-            `;
+    // Tarjeta con imagen clickeable y botones
+    item.innerHTML = `
+      <a href="${gift.link}" target="_blank">
+        <img src="${gift.img}" alt="${gift.title}">
+      </a>
+      <h3>${gift.title}</h3>
+      <p>$${gift.price.toLocaleString("es-AR")}</p>
 
-            container.appendChild(card);
-        });
-}
+      <div class="button-group">
 
-function reserve(id) {
-    localStorage.setItem(`gift_${id}`, "reserved");
-    alert("¡Gracias! Podés realizar la transferencia al alias informado.");
-    location.reload();
-}
+        <a class="btn-whatsapp"
+           href="https://wa.me/5491121851536?text=${encodeURIComponent(window.messages.reservar(gift.title))}"
+           target="_blank">
+          Reservar
+        </a>
 
-loadGifts();
+        <a class="btn-secondary"
+           href="https://wa.me/5491121851536?text=${encodeURIComponent(window.messages.comprobante(gift.title))}"
+           target="_blank">
+          Enviar comprobante
+        </a>
+
+      </div>
+    `;
+
+    container.appendChild(item);
+  });
+});
