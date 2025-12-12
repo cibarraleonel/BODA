@@ -2,22 +2,25 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Mejor compatibilidad móvil -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
   <title>Lista de Regalos</title>
+
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <h1>Lista de Regalos</h1>
 
-  <!-- ACA se va a llenar automáticamente -->
+  <!-- Contenedor donde se cargan los regalos -->
   <div id="gifts-container"></div>
 
-  <!-- Scripts (IMPORTANTE: primero gifts, luego app) -->
+  <!-- Scripts (orden correcto obligatorio) -->
   <script src="messages.js"></script>
   <script src="gifts.js"></script>
   <script src="app.js"></script>
-
 
 </body>
 </html>
