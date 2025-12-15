@@ -19,13 +19,13 @@ document.addEventListener("DOMContentLoaded", () => {
       <div class="button-group">
 
         <a class="btn-whatsapp"
-           href="https://wa.me/5491121851536?text=${encodeURIComponent(window.messages.reservar(gift.title))}"
+           href="https://wa.me/5491152616285?text=${encodeURIComponent(window.messages.reservar(gift.title))}"
            target="_blank">
           Reservar
         </a>
 
         <a class="btn-secondary"
-           href="https://wa.me/5491121851536?text=${encodeURIComponent(window.messages.comprobante(gift.title))}"
+           href="https://wa.me/5491152616285?text=${encodeURIComponent(window.messages.comprobante(gift.title))}"
            target="_blank">
           Enviar comprobante
         </a>
