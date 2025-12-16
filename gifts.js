@@ -161,7 +161,7 @@ const gifts = [
   {
     title: "Set de espátulas/cucharones (acero inoxidable)",
     price: 22950,
-    img: "https://http2.mlstatic.com/D_NQ_NP_2X_788797-MLA95398150138_102025-F.webp",
+    img: "https://http2.mlstatic.com/D_NQ_NP_2X_629981-MLA92802609928_092025-F.webp",
     link: "https://www.mercadolibre.com.ar/set-x5-utensilios-cocina-acero-inoxidable-cucharon-espatula/up/MLAU3444158830"
   },
   {
