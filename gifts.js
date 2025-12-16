@@ -33,10 +33,23 @@ const gifts = [
     link: "https://www.mercadolibre.com.ar/mixer-liliana-rainbow-mix-ah10-negro/p/MLA18351018"
   },
   {
+    title:"Licuadora Liliana 1Lt",
+    price: 46999,
+    img: "https://http2.mlstatic.com/D_NQ_NP_2X_855543-MLA100034007339_122025-F.webp",
+    link: "https://www.mercadolibre.com.ar/licuadora-liliana-whitenblack-albw10-capacidad-1-lt-color-blanco/p/MLA28034654?pdp_filters=SHIPPING_ORIGIN%3A10215068%7Cprice%3A*-75000#polycard_client=search-nordic&search_layout=stack&position=4&type=product&tracking_id=62ecc425-b351-453c-9a44-f1529c8ebda0&wid=MLA2655755450&sid=search"
+  },
+  {
     title: "Secador de pelo",
     price: 19430,
     img: "https://http2.mlstatic.com/D_Q_NP_785666-MLA99464312694_112025-F.webp",
     link: "https://www.mercadolibre.com.ar/secador-de-pelo-aire-frio-calor-2000w-kanji-beauty-color-negro/p/MLA42519614"
+  },
+  {
+    title: "Cafetera Digital De Filtro",
+    price: 64468,
+    img: "https://http2.mlstatic.com/D_NQ_NP_2X_746249-MLA99451199974_112025-F.webp",
+    link: "https://www.mercadolibre.com.ar/cafetera-digital-de-filtro-automatica-con-timer-ca8182p-atma/p/MLA21239144?pdp_filters=price%3A25000-80000#polycard_client=search-nordic&search_layout=stack&position=1&type=product&tracking_id=2ae2ae5d-ea9a-4bac-a89d-3b5cb0de3f55&wid=MLA1395481987&sid=search"
+
   },
   {
     title: "Set toallones y toallas (marrón o gris)",
@@ -63,9 +76,21 @@ const gifts = [
     link: "https://www.mercadolibre.com.ar/juego-de-sabanas-king-premium-hotelera-700h-tacto-suave-color-oxford-platinum-700-hq-blanco-diseno-de-la-tela-lisa/p/MLA49823735"
   },
   {
+    title: "Velador Trípode x2",
+    price: 42900,
+    img: "https://http2.mlstatic.com/D_NQ_NP_2X_811120-MLA93971142667_102025-F.webp",
+    link: "https://articulo.mercadolibre.com.ar/MLA-930004189-velador-tripode-vintage-nordico-x2-_JM?attributes=STRUCTURE_COLOR%3AUGlubw%3D%3D%2CSCREEN_COLOR%3AYXJwaWxsZXJh#origin=share&sid=share&action=whatsapp"
+  },
+  {
     title: "Acolchado / duvet King (beige)",
     price: 50990,
     img: "https://acdn-us.mitiendanube.com/stores/001/487/825/products/img_1307-50ac7195560272589517655071507826-1024-1024.webp",
+    link: "https://www.gangahome.com.ar/productos/acolchado-4-estaciones-california-king-beige-gh-0012-k-bg-ls4gf/"
+  },
+  {
+    title: "Sillas En Paraíso Macizo x4",
+    price: 484000,
+    img: "https://http2.mlstatic.com/D_NQ_NP_2X_706559-MLA69210402707_052023-F.webp",
     link: "https://www.gangahome.com.ar/productos/acolchado-4-estaciones-california-king-beige-gh-0012-k-bg-ls4gf/"
   },
   {
