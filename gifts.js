@@ -4,13 +4,13 @@
 const gifts = [
   {
     title: "Balanza digital",
-    price: 14999,
+    price: 22484,
     img: "https://static.cotodigital3.com.ar/sitios/fotos/large/00477800/00477860.jpg",
-    link: "https://www.cotodigital.com.ar/sitios/cdigi/productos/balanza-de-cocina-top-house-ek321105/_/R-00477860-00477860-200"
+    link: "https://articulo.mercadolibre.com.ar/MLA-873094922-balanza-digital-de-cocina-top-house-hasta-3-kg-_JM?searchVariation=72380545588#polycard_client=search-nordic&searchVariation=72380545588&search_layout=grid&position=1&type=item&tracking_id=f552306f-19a3-4569-8f42-45d57f2680fd"
   },
   {
     title: "Pava electrica",
-    price: 40199,
+    price: 37519,
     img: "https://static.cotodigital3.com.ar/sitios/fotos/large/00502100/00502191.jpg",
     link: "https://www.cotodigital.com.ar/sitios/cdigi/productos/pava-el%C3%A9ctrica-top-house-hhb1795d-1-7-l-vidrio/_/R-00502191-00502191-200"
   },
@@ -28,7 +28,7 @@ const gifts = [
   },
   {
     title: "Mixer",
-    price: 45599,
+    price: 46233,
     img: "https://http2.mlstatic.com/D_Q_NP_856875-MLA74781978523_022024-F.webp",
     link: "https://www.mercadolibre.com.ar/mixer-liliana-rainbow-mix-ah10-negro/p/MLA18351018"
   },
@@ -71,13 +71,13 @@ const gifts = [
   },
   {
     title: "Juego de sábanas tamaño King (arena)",
-    price: 46200,
+    price: 48300,
     img: "https://http2.mlstatic.com/D_Q_NP_927635-MLA99991272635_112025-F.webp",
     link: "https://www.mercadolibre.com.ar/juego-de-sabanas-king-premium-hotelera-700h-tacto-suave-color-oxford-platinum-700-hq-blanco-diseno-de-la-tela-lisa/p/MLA49823735"
   },
   {
     title: "Velador Trípode x2",
-    price: 42900,
+    price: 42980,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_811120-MLA93971142667_102025-F.webp",
     link: "https://articulo.mercadolibre.com.ar/MLA-930004189-velador-tripode-vintage-nordico-x2-_JM?attributes=STRUCTURE_COLOR%3AUGlubw%3D%3D%2CSCREEN_COLOR%3AYXJwaWxsZXJh#origin=share&sid=share&action=whatsapp"
   },
@@ -91,7 +91,7 @@ const gifts = [
     title: "Sillas En Paraíso Macizo x4",
     price: 484000,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_706559-MLA69210402707_052023-F.webp",
-    link: "https://www.gangahome.com.ar/productos/acolchado-4-estaciones-california-king-beige-gh-0012-k-bg-ls4gf/"
+    link: "https://www.mercadolibre.com.ar/combo-de-4-sillas-en-paraiso-macizo-colores-a-eleccion/up/MLAU310357693#polycard_client=search-nordic&search_layout=grid&position=19&type=product&tracking_id=75b87aa7-07f1-4ab8-8dd3-197c54fc3381&wid=MLA928669715&sid=search"
   },
   {
     title: "Tabla de planchar",
@@ -101,7 +101,7 @@ const gifts = [
   },
   {
     title: "Plancha",
-    price: 23626,
+    price: 24437,
     img: "https://http2.mlstatic.com/D_Q_NP_917300-MLA99981505103_112025-F.webp",
     link: "https://www.mercadolibre.com.ar/plancha-seca-de-ropa-con-base-de-acero-inoxidable-winco-w-35/p/MLA33388394"
   },
@@ -113,7 +113,7 @@ const gifts = [
   },
   {
     title: "Caja organizadora GRIS x3",
-    price: 11400,
+    price: 10800,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_771876-MLA93499715036_102025-F.webp",
     link: "https://articulo.mercadolibre.com.ar/MLA-1908499246-set-x-3-canasto-caja-organizador-plastico-simil-rattan-chico-_JM"
   },
@@ -143,7 +143,7 @@ const gifts = [
   },
   {
     title: "Cucharitas x12",
-    price: 13144,
+    price: 13198,
     img: "https://http2.mlstatic.com/D_Q_NP_804162-MLA95972174479_102025-F.webp",
     link: "https://www.mercadolibre.com.ar/pack-12-cucharitas-de-te-tramontina-athenas/p/MLA26783686"
   },
@@ -161,19 +161,19 @@ const gifts = [
   },
   {
     title: "Jarra hervidor",
-    price: 21061,
+    price: 21833,
     img: "https://http2.mlstatic.com/D_Q_NP_752493-MLA99575030790_122025-F.webp",
     link: "https://www.mercadolibre.com.ar/jarro-hervidor-hudson-14-cm-antiadherente-color-negro/p/MLA26253215"
   },
   {
     title: "Olla antiadherente",
-    price: 33156,
+    price: 33423,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_691466-MLA99496683670_112025-F.webp",
     link: "https://www.mercadolibre.com.ar/cacerola-de-aluminio-con-antiadherente-20-cm-daily-color-negro/p/MLA47451884"
   },
   {
     title: "Sartén antiadherente",
-    price: 19327,
+    price: 18341,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_612353-MLA95838103987_102025-F.webp",
     link: "https://www.mercadolibre.com.ar/sarten-antiadherente-hudson-22cm-excelente-calidad-color-negro/p/MLA27437846"
   },
@@ -203,9 +203,9 @@ const gifts = [
   },
   {
     title: "Set de tablas de madera",
-    price: 18990,
+    price: 18050,
     img: "https://acdn-us.mitiendanube.com/stores/001/487/825/products/apc_9694-89dc95164cf390e05417338538623954-1024-1024.webp",
-    link: "https://www.gangahome.com.ar/productos/set-x3-tablas-de-madera-gh-518/"
+    link: "https://www.mercadolibre.com.ar/set-x3-tablas-para-picar-de-corte-madera-bambu-cocina/up/MLAU221898251#polycard_client=search-nordic&search_layout=grid&position=24&type=product&tracking_id=de242958-d007-438a-8a54-0f67b7b9526b&wid=MLA1166154900&sid=search"
   },
   {
     title: "Set de ensaladeras",
@@ -221,7 +221,7 @@ const gifts = [
   },
   {
     title: "Bandeja para horno",
-    price: 9204,
+    price: 9989,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_858309-MLA85627617506_062025-F.webp",
     link: "https://www.mercadolibre.com.ar/bandeja-para-horno-fuente-placa-acero-antiadherente-cocina/up/MLAU3169487862"
   },
