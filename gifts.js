@@ -39,12 +39,6 @@ const gifts = [
     link: "https://www.mercadolibre.com.ar/licuadora-liliana-whitenblack-albw10-capacidad-1-lt-color-blanco/p/MLA28034654?pdp_filters=SHIPPING_ORIGIN%3A10215068%7Cprice%3A*-75000#polycard_client=search-nordic&search_layout=stack&position=4&type=product&tracking_id=62ecc425-b351-453c-9a44-f1529c8ebda0&wid=MLA2655755450&sid=search"
   },
   {
-    title: "Secador de pelo",
-    price: 19430,
-    img: "https://http2.mlstatic.com/D_Q_NP_785666-MLA99464312694_112025-F.webp",
-    link: "https://www.mercadolibre.com.ar/secador-de-pelo-aire-frio-calor-2000w-kanji-beauty-color-negro/p/MLA42519614"
-  },
-  {
     title: "Cafetera Digital De Filtro",
     price: 64468,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_746249-MLA99451199974_112025-F.webp",
