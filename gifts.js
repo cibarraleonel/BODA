@@ -8,12 +8,12 @@ const gifts = [
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_855640-MLA85651576357_062025-F.webp",
     link: "https://www.mercadolibre.com.ar/balanza-digital-de-cocina-madera-bambo-5kg-madera-5-kg/up/MLAU3222744536#polycard_client=search-desktop&search_layout=grid&position=22&type=product&tracking_id=de793704-9977-4084-8609-92d7106849ea&wid=MLA2102373246&sid=search"
   },
-  {
-    title: "<s>Pava electrica</s> Reservado",
-    price: 45559,
-    img: "https://static.cotodigital3.com.ar/sitios/fotos/large/00502100/00502191.jpg",
-    link: "https://www.cotodigital.com.ar/sitios/cdigi/productos/pava-el%C3%A9ctrica-top-house-hhb1795d-1-7-l-vidrio/_/R-00502191-00502191-200"
-  },
+  //{
+  //  title: "<s>Pava electrica</s> Reservado",
+  //  price: 45559,
+  //  img: "https://static.cotodigital3.com.ar/sitios/fotos/large/00502100/00502191.jpg",
+  //  link: "https://www.cotodigital.com.ar/sitios/cdigi/productos/pava-el%C3%A9ctrica-top-house-hhb1795d-1-7-l-vidrio/_/R-00502191-00502191-200"
+  //},
   {
     title: "Microondas",
     price: 229499,
@@ -50,12 +50,12 @@ const gifts = [
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_746249-MLA99451199974_112025-F.webp",
     link: "https://www.mercadolibre.com.ar/cafetera-digital-de-filtro-automatica-con-timer-ca8182p-atma/p/MLA21239144"
   },
-  {
-    title: "<s>Set toallones y toallas (marrón o gris)</s> Reservado",
-    price: 24992,
-    img: "https://http2.mlstatic.com/D_Q_NP_666514-MLA75104059586_032024-F.webp",
-    link: "https://articulo.mercadolibre.com.ar/MLA-1113298065-juego-de-toalla-y-toallon-palette-500-gramos-grandes-pesados-_JM"
-  },
+  //{
+  //  title: "<s>Set toallones y toallas (marrón o gris)</s> Reservado",
+  //  price: 24992,
+  //  img: "https://http2.mlstatic.com/D_Q_NP_666514-MLA75104059586_032024-F.webp",
+  //  link: "https://articulo.mercadolibre.com.ar/MLA-1113298065-juego-de-toalla-y-toallon-palette-500-gramos-grandes-pesados-_JM"
+  //},
   {
     title: "Set manopla + repasadores + paño + agarradera (rayado)",
     price: 17450,
@@ -158,18 +158,18 @@ const gifts = [
     img: "https://http2.mlstatic.com/D_Q_NP_804162-MLA95972174479_102025-F.webp",
     link: "https://www.mercadolibre.com.ar/pack-12-cucharitas-de-te-tramontina-athenas/p/MLA26783686"
   },
-  {
-    title: "<s>Tazas de té x6</s> Reservado",
-    price: 49892,
-    img: "https://http2.mlstatic.com/D_NQ_NP_2X_675269-MLA95669068682_102025-F.webp",
-    link: "https://www.mercadolibre.com.ar/taza-desayuno-y-plato-porcelana-gastronomia-kit-x-6-unidades/p/MLA28708447"
-  },
-  {
-    title: "<s>Vasos x6</s> Reservado",
-    price: 22171,
-    img: "https://http2.mlstatic.com/D_Q_NP_707475-MLA95599998252_102025-F.webp",
-    link: "https://www.mercadolibre.com.ar/set-x-12-vaso-vidrio-rigolleau-copon-gourmet-flint-450-ml-transparente/p/MLA57776307"
-  },
+  //{
+  //  title: "<s>Tazas de té x6</s> Reservado",
+  //  price: 49892,
+  //  img: "https://http2.mlstatic.com/D_NQ_NP_2X_675269-MLA95669068682_102025-F.webp",
+  //  link: "https://www.mercadolibre.com.ar/taza-desayuno-y-plato-porcelana-gastronomia-kit-x-6-unidades/p/MLA28708447"
+  //},
+  //{
+  //  title: "<s>Vasos x6</s> Reservado",
+  //  price: 22171,
+  //  img: "https://http2.mlstatic.com/D_Q_NP_707475-MLA95599998252_102025-F.webp",
+  //  link: "https://www.mercadolibre.com.ar/set-x-12-vaso-vidrio-rigolleau-copon-gourmet-flint-450-ml-transparente/p/MLA57776307"
+  //},
   {
     title: "Medio canasto Matero de Cuero",
     price: 49900,
@@ -207,12 +207,12 @@ const gifts = [
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_629981-MLA92802609928_092025-F.webp",
     link: "https://www.mercadolibre.com.ar/set-x5-utensilios-cocina-acero-inoxidable-cucharon-espatula/up/MLAU3444158830"
   },
-  {
-    title: "<s>Frascos hermeticos  x6</s> Reservado",
-    price: 24699,
-    img: "https://http2.mlstatic.com/D_NQ_NP_2X_856144-MLA96307592080_102025-F.webp",
-    link: "https://www.mercadolibre.com.ar/x-6-frascos-transparentes-gadnic-plastico-reforzado-blanco/p/MLA61441371"
-  },
+  //{
+  //  title: "<s>Frascos hermeticos  x6</s> Reservado",
+  //  price: 24699,
+  //  img: "https://http2.mlstatic.com/D_NQ_NP_2X_856144-MLA96307592080_102025-F.webp",
+  //  link: "https://www.mercadolibre.com.ar/x-6-frascos-transparentes-gadnic-plastico-reforzado-blanco/p/MLA61441371"
+  //},
   {
     title: "Especieros",
     price: 29999,
